@@ -6,7 +6,7 @@
   - Experiments and evaluation  
   - Ethical considerations  
 
-- **mlp_medical_diagnosis_mlp_depth_width_tutorial.ipynb**  
+- **MLP Medical.ipynb**  
   A fully runnable Jupyter Notebook containing:
   - Data loading  
   - Preprocessing (scaling, splitting)  
